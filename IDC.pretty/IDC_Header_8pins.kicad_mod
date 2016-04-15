@@ -1,10 +1,10 @@
-(module IDC_Header_Straight_10pins (layer F.Cu) (tedit 570D6536)
+(module IDC_Header_8pins (layer F.Cu) (tedit 570D65E8)
   (descr "10 pins through hole IDC header")
   (tags "IDC header socket VASCH")
-  (fp_text reference P4 (at 5.08 -7.62) (layer F.SilkS)
+  (fp_text reference P4 (at 0 -3.048) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CONN_02X04 (at 6.604 17.272) (layer F.Fab)
+  (fp_text value CONN_02X04 (at 0 3.302) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.27 4.064) (end -1.27 4.572) (layer F.SilkS) (width 0.15))
